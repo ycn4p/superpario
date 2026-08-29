@@ -1,2 +1,2 @@
 # superpario
-a 2D game development 
+a 2D GAME 
